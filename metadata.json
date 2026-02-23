@@ -1,0 +1,5 @@
+{
+  "name": "Visual Novel Scene Mockup Tool",
+  "description": "A lightweight tool to import art, overlay customizable dialogue UI, and export visual novel scene mockups.",
+  "requestFramePermissions": []
+}
